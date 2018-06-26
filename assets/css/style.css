@@ -1,0 +1,74 @@
+body {
+	margin-top: 75px;
+	margin-bottom: 75px;
+  background: lightblue;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	text-transform: uppercase;
+}
+
+.container {
+	font-family: 'Gloria Hallelujah', cursive;
+    font-size: 40px;
+    background-color: lavenderblush 
+	
+}
+
+.display-4 {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 40px;
+    
+}
+
+h1 {
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 55px;
+	color: #fff;
+}
+
+h3 {
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 15px;
+	color: #fff;
+}
+
+form {
+    color: black;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+addBand { font-family: 'Gloria Hallelujah', cursive;
+
+}
+
+
+#buttonsView {
+	display: inline;
+}
+
+.gifs {
+	display: inline;
+}
+
+#gifsView {
+	display: inline;
+	margin-bottom: 40px;
+}
+
+.gif {
+	cursor: crosshair;
+}
+
+#show-form {
+	display: inline;
+}
+
+button {
+	background: #fff;
+	margin: 5px;
+	font-family: 'Gloria Hallelujah', cursive;
+	color: black;
+}
+
+
+
